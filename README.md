@@ -44,10 +44,6 @@ The app is still under ongoing development.
 * MVVM architecture with ViewModels.
 * Material3 Design for a modern UI experience.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## 💡 Author
 
 * **Najlae Abarghache**
